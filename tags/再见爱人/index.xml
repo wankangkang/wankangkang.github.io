@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>再见爱人 on 月亮很亮</title>
+    <link>http://localhost:1313/tags/%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA/</link>
+    <description>Recent content in 再见爱人 on 月亮很亮</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>me@example.com (moon)</managingEditor>
+    <webMaster>me@example.com (moon)</webMaster>
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《再见爱人》：看见自己</title>
+      <link>http://localhost:1313/post/2024/page-1/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate><author>me@example.com (moon)</author>
+      <guid>http://localhost:1313/post/2024/page-1/</guid>
+      <description>《再见爱人》这个节目, 我从第一季到第三季全都看完了, 因为代入感太强了,哭得稀里哗啦, 中间也经历了自己婚姻危机从冲动到冷静再到自省和反思然后p</description>
+    </item>
+    <item>
+      <title>《再见爱人》：男性的局限在于看不见女性的价值</title>
+      <link>http://localhost:1313/post/2024/page-2/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate><author>me@example.com (moon)</author>
+      <guid>http://localhost:1313/post/2024/page-2/</guid>
+      <description>三季《再见爱人》看下来, 最大的感受就是: 男性这个物种进化真是太慢了. 离婚综艺这几年为啥能火,一个基本的前提当然是当下这个时代离婚率高. 中国人</description>
+    </item>
+  </channel>
+</rss>
